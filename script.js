@@ -1,10 +1,2 @@
 
-document.getElementById("demo").innerHTML = "Cambio de HTML a traves de getElementById";
-
-const some = () => {
-    console.log("Hola mundo");
-}
-
-const cambioParaCommit = () => {
-    console.log("Cambio");
-}
+document.getElementById('demo').innerHTML = "Cambio de HTML a traves de getElementById";
